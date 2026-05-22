@@ -32,7 +32,7 @@ export default function Home() {
           <div className="space-y-3">
             <p className="text-zinc-500 text-sm md:text-base leading-relaxed">
               <a
-                href="https://myportfolio-2ax7zxdzs-badrs-projects-1ab35d12.vercel.app/"
+                href="https://myportfolio-chi-ruby-26.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-zinc-200 hover:text-green-500 transition-colors underline decoration-zinc-700 underline-offset-4 font-medium"
